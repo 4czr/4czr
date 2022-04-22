@@ -7,9 +7,8 @@
     <a href="https://github.com/4czr">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=4czr&theme=tokyonight&hide_border=true&hide=html,css/??" />
     </a>
-</p>
-
 ![Ozz's Profile Views](https://komarev.com/ghpvc/?username=4czr)
+</p>
 
 ## Featured Repos
 
