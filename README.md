@@ -1,6 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1366F7&background=0B0B0B00&center=true&vCenter=true&lines=Weclome+To+Ozz's+GitHub+Profile++++++++++)](https://git.io/typing-svg)
-![Ozz's GitHub stats](https://github-readme-stats.vercel.app/api?username=4czr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4czr&layout=compact)
+
+<p align="center">
+    <a href="https://github.com/4czr">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=4czr&show_icons=true&theme=tokyonight&line_height=33.5&hide_border=true&hide=html,css/??" alt="Ozz's GitHub Stats" />
+    </a>
+    <a href="https://github.com/4czr">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=4czr&theme=tokyonight&hide_border=true&hide=html,css/??" />
+    </a>
+</p>
 
 ![Ozz's Profile Views](https://komarev.com/ghpvc/?username=4czr)
 
