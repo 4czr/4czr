@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1366F7&background=0B0B0B00&center=true&vCenter=true&lines=Welcome+To+Ozz's+GitHub+Profile++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1366F7&background=0B0B0B00&center=true&vCenter=true&lines=Weclome+To+Ozz's+GitHub+Profile++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/4czr">
@@ -8,6 +8,7 @@
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=4czr&theme=tokyonight&hide_border=true&hide=html,css/??" />
     </a>
 </p>
+
 ![Ozz's Profile Views](https://komarev.com/ghpvc/?username=4czr)
 
 ## Featured Repos
